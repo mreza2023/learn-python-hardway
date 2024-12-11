@@ -1,3 +1,4 @@
+# number and math
 print ("I will now count my chikens:")
 
 print("Hens", 25 +30 / 6)
